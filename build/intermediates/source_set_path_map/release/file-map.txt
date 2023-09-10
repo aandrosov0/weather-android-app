@@ -1,0 +1,10 @@
+aandrosov.weather.app-pngs-0 /disk2/Documents/Weather App/build/generated/res/pngs/release
+aandrosov.weather.app-resValues-1 /disk2/Documents/Weather App/build/generated/res/resValues/release
+aandrosov.weather.app-packageReleaseResources-2 /disk2/Documents/Weather App/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+aandrosov.weather.app-packageReleaseResources-3 /disk2/Documents/Weather App/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+aandrosov.weather.app-merged_res-4 /disk2/Documents/Weather App/build/intermediates/merged_res/release
+aandrosov.weather.app-main-5 /disk2/Documents/Weather App/src/main/res
+aandrosov.weather.app-release-6 /disk2/Documents/Weather App/src/release/res
+aandrosov.weather.app-lifecycle-runtime-2.3.1-7 /home/aandrosov/.gradle/caches/transforms-3/55cbf0a7398eafcfc9fbf329f95a2cae/transformed/lifecycle-runtime-2.3.1/res
+aandrosov.weather.app-jetified-annotation-experimental-1.3.0-8 /home/aandrosov/.gradle/caches/transforms-3/780604f9957ef9edc1972f0c6df5f355/transformed/jetified-annotation-experimental-1.3.0/res
+aandrosov.weather.app-core-1.12.0-9 /home/aandrosov/.gradle/caches/transforms-3/e4176ce438937a239317860deb97f96a/transformed/core-1.12.0/res

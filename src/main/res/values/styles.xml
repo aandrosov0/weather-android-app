@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:statusBarColor">@color/day_background_top</item>
+        <item name="android:navigationBarColor">@color/day_background_bottom</item>
+        <item name="android:windowBackground">@drawable/day_background</item>
+
+        <item name="textSizeSmall">20sp</item>
+        <item name="textSizeMedium">24sp</item>
+        <item name="textSizeLarge">144sp</item>
+
+        <item name="marginDefault">8dp</item>
+        <item name="marginLargeDefault">24dp</item>
+
+        <item name="paddingDefault">8dp</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance" parent="android:TextAppearance">
+
+    </style>
+
+    <style name="AppTheme.TextAppearance.Small" parent="AppTheme.TextAppearance">
+        <item name="android:textSize">?attr/textSizeSmall</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.Medium" parent="AppTheme.TextAppearance">
+        <item name="android:textSize">?attr/textSizeMedium</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.Large" parent="AppTheme.TextAppearance">
+        <item name="android:textSize">?attr/textSizeLarge</item>
+    </style>
+</resources>

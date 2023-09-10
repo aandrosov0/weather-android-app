@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "aandrosov.weather.app-merged_res-4:/anim_fade_out.xml.flat",
+        "source": "aandrosov.weather.app-main-5:/anim/fade_out.xml"
+    },
+    {
+        "merged": "aandrosov.weather.app-merged_res-4:/drawable_rounded_rectangle.xml.flat",
+        "source": "aandrosov.weather.app-main-5:/drawable/rounded_rectangle.xml"
+    },
+    {
+        "merged": "aandrosov.weather.app-merged_res-4:/drawable_icon.xml.flat",
+        "source": "aandrosov.weather.app-main-5:/drawable/icon.xml"
+    },
+    {
+        "merged": "aandrosov.weather.app-merged_res-4:/drawable_night_background.xml.flat",
+        "source": "aandrosov.weather.app-main-5:/drawable/night_background.xml"
+    },
+    {
+        "merged": "aandrosov.weather.app-merged_res-4:/drawable_day_background.xml.flat",
+        "source": "aandrosov.weather.app-main-5:/drawable/day_background.xml"
+    },
+    {
+        "merged": "aandrosov.weather.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "aandrosov.weather.app-main-5:/layout/activity_main.xml"
+    }
+]

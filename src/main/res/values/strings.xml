@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="true">Weather</string>
+    <string name="city_label" translatable="false">New Zealand</string>
+    <string name="temperature_label" translatable="false">19°</string>
+    <string name="weather_label" translatable="false">It\'s Sunny</string>
+    <string name="humidity_label" translatable="true">Humidity</string>
+    <string name="visibility_label" translatable="true">Visibility</string>
+    <string name="pressure_label" translatable="true">Pressure</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="permission_alert" translatable="true">You must give access to the location. Unless app will not work.</string>
+    <string name="failed_connect_to_the_server_alert" translatable="true">Failed connect to the server</string>
+    <string name="error_check_your_internet_connection" translatable="true">Error. Check your internet connection.</string>
+</resources>

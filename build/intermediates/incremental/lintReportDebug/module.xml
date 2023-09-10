@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/disk2/Documents/Weather App"
+    name=":"
+    type="APP"
+    maven=":Weather:"
+    agpVersion="8.0.2"
+    buildFolder="build"
+    bootClassPath="/disk2/Android/SDK/platforms/android-34/android.jar:/disk2/Android/SDK/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>

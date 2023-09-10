@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aandrosov/.gradle/caches/transforms-3/8986bb2dd516decb78e7a237384926b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aandrosov/.gradle/caches/transforms-3/6121269f911dbf5f22a7b10e943ebf76/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/aandrosov/.gradle/caches/transforms-3/74abcb7fb8fe4604f6cd9740aed3e6c8/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/aandrosov/.gradle/caches/transforms-3/ae77eea2e569a37f91aa754e7142309a/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/aandrosov/.gradle/caches/transforms-3/10c30e617571fef8d927f64cb799ab33/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:1:1-25:12
+	package
+		INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:2:5-66
+	android:name
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:2:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:3:5-78
+	android:name
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:3:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:5:5-84
+	android:name
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:5:22-82
+uses-permission#android.permission.FOREGROUND_SERVICE_LOCATION
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:6:5-85
+	android:name
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:6:22-83
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:7:5-88
+	android:name
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:7:22-86
+application
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:9:5-24:19
+MERGED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aandrosov/.gradle/caches/transforms-3/8986bb2dd516decb78e7a237384926b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aandrosov/.gradle/caches/transforms-3/8986bb2dd516decb78e7a237384926b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:13:9-38
+	android:theme
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:11:9-36
+activity#aandrosov.weather.app.MainActivity
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:19:13-22:29
+category#android.intent.category.LAUNCHER
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:20:27-74
+action#android.intent.action.MAIN
+ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml:21:25-66
+uses-sdk
+INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aandrosov/.gradle/caches/transforms-3/8986bb2dd516decb78e7a237384926b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aandrosov/.gradle/caches/transforms-3/8986bb2dd516decb78e7a237384926b1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aandrosov/.gradle/caches/transforms-3/6121269f911dbf5f22a7b10e943ebf76/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aandrosov/.gradle/caches/transforms-3/6121269f911dbf5f22a7b10e943ebf76/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/aandrosov/.gradle/caches/transforms-3/74abcb7fb8fe4604f6cd9740aed3e6c8/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/aandrosov/.gradle/caches/transforms-3/74abcb7fb8fe4604f6cd9740aed3e6c8/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/aandrosov/.gradle/caches/transforms-3/ae77eea2e569a37f91aa754e7142309a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/aandrosov/.gradle/caches/transforms-3/ae77eea2e569a37f91aa754e7142309a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/aandrosov/.gradle/caches/transforms-3/10c30e617571fef8d927f64cb799ab33/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/aandrosov/.gradle/caches/transforms-3/10c30e617571fef8d927f64cb799ab33/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+		INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+		ADDED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+		INJECTED from /disk2/Documents/Weather App/src/main/AndroidManifest.xml
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#aandrosov.weather.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#aandrosov.weather.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/AndroidManifest.xml:26:22-94

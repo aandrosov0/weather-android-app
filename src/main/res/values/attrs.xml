@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textSizeSmall" type="dimen"/>
+    <attr name="textSizeMedium" type="dimen"/>
+    <attr name="textSizeLarge" type="dimen"/>
+
+    <attr name="marginDefault" type="dimen"/>
+    <attr name="marginLargeDefault" type="dimen"/>
+
+    <attr name="paddingDefault" type="dimen"/>
+</resources>

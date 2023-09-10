@@ -1,0 +1,28 @@
+/disk2/Documents/Weather App/src/main/res/values/strings.xml:4: Warning: The resource R.string.city_label appears to be unused [UnusedResources]
+    <string name="city_label" translatable="false">New Zealand</string>
+            ~~~~~~~~~~~~~~~~~
+/disk2/Documents/Weather App/src/main/res/values/strings.xml:5: Warning: The resource R.string.temperature_label appears to be unused [UnusedResources]
+    <string name="temperature_label" translatable="false">19°</string>
+            ~~~~~~~~~~~~~~~~~~~~~~~~
+/disk2/Documents/Weather App/src/main/res/values/strings.xml:6: Warning: The resource R.string.weather_label appears to be unused [UnusedResources]
+    <string name="weather_label" translatable="false">It\'s Sunny</string>
+            ~~~~~~~~~~~~~~~~~~~~
+/disk2/Documents/Weather App/src/main/res/values/strings.xml:10: Warning: The resource R.string.zero appears to be unused [UnusedResources]
+    <string name="zero" translatable="false">0</string>
+            ~~~~~~~~~~~
+
+   Explanation for issues of type "UnusedResources":
+   Unused resources make applications larger and slow down builds.
+
+
+   The unused resource check can ignore tests. If you want to include
+   resources that are only referenced from tests, consider packaging them in a
+   test source set instead.
+
+   You can include test sources in the unused resource check by setting the
+   system property lint.unused-resources.include-tests =true, and to exclude
+   them (usually for performance reasons), use
+   lint.unused-resources.exclude-tests =true.
+   ,
+
+0 errors, 4 warnings

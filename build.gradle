@@ -1,0 +1,39 @@
+plugins {
+    id 'com.android.application' version '8.0.2'
+}
+
+android {
+    namespace 'aandrosov.weather.app'
+
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = 'aandrosov.weather.app'
+
+        minSdk = 28
+        targetSdk = 34
+
+        versionCode = 1
+        versionName = '1.0.0'
+    }
+
+    buildTypes {
+        release {
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+}
+
+repositories {
+    google()
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'androidx.core:core:1.12.0'
+}

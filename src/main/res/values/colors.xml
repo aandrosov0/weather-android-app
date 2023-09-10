@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_transparent">#1DFFFFFF</color>
+    <color name="day_background_top">#f46494</color>
+    <color name="day_background_bottom">#612d57</color>
+
+    <color name="night_background_top">#393671</color>
+    <color name="night_background_bottom">#323260</color>
+</resources>

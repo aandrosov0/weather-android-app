@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.0.2" type="partial_results">
+    <map id="UnusedResources">
+        <location id="R.string.weather_label"
+            file="${:*debug*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="6"
+            column="13"
+            startOffset="271"
+            endLine="6"
+            endColumn="33"
+            endOffset="291"/>
+        <location id="R.string.zero"
+            file="${:*debug*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="10"
+            column="13"
+            startOffset="566"
+            endLine="10"
+            endColumn="24"
+            endOffset="577"/>
+        <entry
+            name="model"
+            string="anim[fade_out(U)],attr[textSizeMedium(U),paddingDefault(U),textSizeLarge(U),textSizeSmall(U),marginDefault(D),marginLargeDefault(D)],color[day_background_bottom(U),night_background_top(U),white_transparent(U),day_background_top(U),night_background_bottom(U)],drawable[night_background_1(R),day_background(U),night_background_7(R),night_background_22(R),night_background_6(R),night_background_23(R),night_background_9(R),night_background_20(R),night_background_8(R),night_background_21(R),night_background_3(R),night_background_26(R),night_background_2(R),night_background_27(R),night_background_5(R),night_background_24(R),night_background_4(R),night_background_25(R),night_background_28(R),night_background_29(R),night_background_30(R),night_background_33(R),day_background_10(R),night_background_34(R),day_background_11(R),night_background_31(R),day_background_12(R),night_background_32(R),night_background(U),day_background_17(R),day_background_18(R),day_background_19(R),day_background_13(R),day_background_14(R),day_background_15(R),day_background_16(R),icon_2(R),icon_1(R),day_background_7(R),day_background_6(R),day_background_9(R),day_background_8(R),icon(U),day_background_20(R),day_background_21(R),day_background_1(R),day_background_22(R),day_background_23(R),day_background_3(R),day_background_2(R),day_background_5(R),day_background_4(R),night_background_11(R),night_background_12(R),night_background_10(R),night_background_15(R),night_background_16(R),night_background_13(R),night_background_14(R),night_background_19(R),night_background_17(R),night_background_18(R),rounded_rectangle(U)],id[values_container(D),visibility_label(U),humidity_label(U),city_label(U),pressure_label(U),weather_label(U),temperature_label(U)],layout[activity_main(U)],string[permission_alert(U),visibility_label(U),humidity_label(U),failed_connect_to_the_server_alert(U),city_label(D),zero(D),app_name(U),pressure_label(U),error_check_your_internet_connection(U),temperature_label(D),weather_label(D)],style[AppTheme_TextAppearance_Small(U),AppTheme_TextAppearance(U),AppTheme_TextAppearance_Medium(U),AppTheme_TextAppearance_Large(U),AppTheme(U)];d^39^3d^3c^3f^3e^33^32^35^34^22^24^26^2c^2d^2e^2f^29^2a^2b^37^38^3a^3b,28^c^18^16^1c^1a^10^e^14^12^42^40^41^45^46^43^44^48^49^47^13^15^f^11^1b^1d^17^19^1e^1f^20^25^27^21^23,36^31^30,4a^9,52^2^60^5e^4e^61^4a^55^54^5a,5e^5f^4,60^5f^1,61^5f^3,62^a^7^d;;;"/>
+        <location id="R.string.city_label"
+            file="${:*debug*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="4"
+            column="13"
+            startOffset="128"
+            endLine="4"
+            endColumn="30"
+            endOffset="145"/>
+        <location id="R.string.temperature_label"
+            file="${:*debug*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="5"
+            column="13"
+            startOffset="200"
+            endLine="5"
+            endColumn="37"
+            endOffset="224"/>
+    </map>
+
+</incidents>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="error_check_your_internet_connection">Произошла непредвиденная ошибка. Проверьте ваше подключение к сети.</string>
+    <string name="failed_connect_to_the_server_alert">Невозвомжно подключиться к серверу</string>
+    <string name="humidity_label">Влажность</string>
+    <string name="permission_alert">Вы должны дать доступ к местоположению, иначе приложение не будет работать.</string>
+    <string name="pressure_label">Давление</string>
+    <string name="visibility_label">Видимость</string>
+</resources>

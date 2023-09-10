@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="marginDefault" type="dimen"/>
+    <attr name="marginLargeDefault" type="dimen"/>
+    <attr name="paddingDefault" type="dimen"/>
+    <attr name="textSizeLarge" type="dimen"/>
+    <attr name="textSizeMedium" type="dimen"/>
+    <attr name="textSizeSmall" type="dimen"/>
+    <color name="day_background_bottom">#612d57</color>
+    <color name="day_background_top">#f46494</color>
+    <color name="night_background_bottom">#323260</color>
+    <color name="night_background_top">#393671</color>
+    <color name="white_transparent">#1DFFFFFF</color>
+    <string name="app_name" translatable="true">Weather</string>
+    <string name="city_label" translatable="false">New Zealand</string>
+    <string name="error_check_your_internet_connection" translatable="true">Error. Check your internet connection.</string>
+    <string name="failed_connect_to_the_server_alert" translatable="true">Failed connect to the server</string>
+    <string name="humidity_label" translatable="true">Humidity</string>
+    <string name="permission_alert" translatable="true">You must give access to the location. Unless app will not work.</string>
+    <string name="pressure_label" translatable="true">Pressure</string>
+    <string name="temperature_label" translatable="false">19°</string>
+    <string name="visibility_label" translatable="true">Visibility</string>
+    <string name="weather_label" translatable="false">It\'s Sunny</string>
+    <string name="zero" translatable="false">0</string>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:statusBarColor">@color/day_background_top</item>
+        <item name="android:navigationBarColor">@color/day_background_bottom</item>
+        <item name="android:windowBackground">@drawable/day_background</item>
+
+        <item name="textSizeSmall">20sp</item>
+        <item name="textSizeMedium">24sp</item>
+        <item name="textSizeLarge">144sp</item>
+
+        <item name="marginDefault">8dp</item>
+        <item name="marginLargeDefault">24dp</item>
+
+        <item name="paddingDefault">8dp</item>
+    </style>
+    <style name="AppTheme.TextAppearance" parent="android:TextAppearance">
+
+    </style>
+    <style name="AppTheme.TextAppearance.Large" parent="AppTheme.TextAppearance">
+        <item name="android:textSize">?attr/textSizeLarge</item>
+    </style>
+    <style name="AppTheme.TextAppearance.Medium" parent="AppTheme.TextAppearance">
+        <item name="android:textSize">?attr/textSizeMedium</item>
+    </style>
+    <style name="AppTheme.TextAppearance.Small" parent="AppTheme.TextAppearance">
+        <item name="android:textSize">?attr/textSizeSmall</item>
+    </style>
+</resources>

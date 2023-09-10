@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "aandrosov.weather.app-mergeDebugResources-2:/values-ru/values-ru.xml",
+            "map": [
+                {
+                    "source": "/home/aandrosov/.gradle/caches/transforms-3/4882ce5cf4913bdf4ac6398d399f205d/transformed/core-1.12.0/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,356,457,562,665,782",
+                        "endColumns": "97,101,100,100,104,102,116,100",
+                        "endOffsets": "148,250,351,452,557,660,777,878"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "99,197,299,400,501,606,709,1283",
+                        "endColumns": "97,101,100,100,104,102,116,100",
+                        "endOffsets": "192,294,395,496,601,704,821,1379"
+                    }
+                },
+                {
+                    "source": "/disk2/Documents/Weather App/src/main/res/values-ru/strings.xml",
+                    "from": {
+                        "startLines": "2,8,7,3,6,5,4",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,478,380,99,259,207,152",
+                        "endColumns": "43,132,97,52,120,51,54",
+                        "endOffsets": "94,606,473,147,375,254,202"
+                    },
+                    "to": {
+                        "startLines": "2,10,11,12,13,14,16",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,826,959,1057,1110,1231,1384",
+                        "endColumns": "43,132,97,52,120,51,54",
+                        "endOffsets": "94,954,1052,1105,1226,1278,1434"
+                    }
+                }
+            ]
+        }
+    ]
+}
